@@ -1,0 +1,44 @@
+{
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-bb1de989.woff",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-476adf42.woff2",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "resources/images/1.jpg": {
+    "file": "assets/1-80acf9af.jpg",
+    "src": "resources/images/1.jpg"
+  },
+  "resources/images/2.jpg": {
+    "file": "assets/2-80bf008c.jpg",
+    "src": "resources/images/2.jpg"
+  },
+  "resources/images/3.jpg": {
+    "file": "assets/3-21feb64d.jpg",
+    "src": "resources/images/3.jpg"
+  },
+  "resources/images/4.jpg": {
+    "file": "assets/4-b77fec8c.jpg",
+    "src": "resources/images/4.jpg"
+  },
+  "resources/images/5.jpg": {
+    "file": "assets/5-792ed8da.jpg",
+    "src": "resources/images/5.jpg"
+  },
+  "resources/images/6.jpg": {
+    "file": "assets/6-254f7d3f.jpg",
+    "src": "resources/images/6.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-5274f469.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-090e5474.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
